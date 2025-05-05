@@ -20,22 +20,3 @@
 
 Управление подразделениями
 
-#### Use Case Diagram  
-![UseCase](/Users/vvv/Desktop/Снимок экрана 2025-05-05 в 19.59.52.png)  
-=
-
-#### Activity Diagrams  
-![AuthActivity]()  
- 
-
-#### Class Diagram  
-![ClassDiagram](images/class_diagram.png)  
-**Описание:** ...  
-
-#### Sequence Diagrams  
-![AuthSequence](images/auth_sequence.png)  
-**Описание:** ...  
-
-#### Component Diagram  
-![Components](images/components.png)  
-**Описание:** ...   добавь описания
