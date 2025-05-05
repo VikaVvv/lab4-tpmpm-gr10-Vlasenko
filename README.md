@@ -1,4 +1,4 @@
-# Лабораторная работа 4  
+<img width="703" alt="Снимок экрана 2025-05-05 в 19 59 52" src="https://github.com/user-attachments/assets/683afc93-8d98-4d6d-84d3-02000b64e900" /># Лабораторная работа 4  
 ## Индивидуальный проект  
 
 ### [ФИО студента]  
@@ -21,12 +21,12 @@
 Управление подразделениями
 
 #### Use Case Diagram  
-![UseCase](images/usecase.png)  
-**Сценарий:** ...  
+![UseCase](/Users/vvv/Desktop/Снимок экрана 2025-05-05 в 19.59.52.png)  
+=
 
 #### Activity Diagrams  
-![AuthActivity](images/auth_activity.png)  
-**Описание:** ...  
+![AuthActivity]()  
+ 
 
 #### Class Diagram  
 ![ClassDiagram](images/class_diagram.png)  
